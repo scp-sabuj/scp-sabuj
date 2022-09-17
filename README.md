@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Sabuj Chandra Paul
 #### Software Engineer
-![Software Engineer]
-<---(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
---->
+<!--
+(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+-->
 
 I am organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals
 
