@@ -1,14 +1,29 @@
 ### Hi there 👋, I'm Sabuj Chandra Paul
 #### Software Engineer
-<!--
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
--->
+👨‍💻 Software Engineer | Web Developer | Laravel Enthusiast
+🌐 [Portfolio Website](www.sabujchandrapaul.com)
+📧 Email: sabujscp.311996@gmail.com | 📞 Phone: 01742824368
 
-I am organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals
+🔧 Tech Stack:
+- Languages: C/C++, Java, Python, Matlab, PHP, JavaScript
+- Framework: Laravel (PHP), Library: React (basic)
+- Database: MySQL, Markup: HTML5, Stylesheet: CSS3, Bootstrap
 
-Skills: HTML / CSS / JS/ PHP/ PHP(Laravel) / C / C++ / JAVA / PYTHON 
+🛠️ Skills:
+- Strong problem-solving and algorithmic skills
+- Proficient in API integration (Stripe, SMS Gateway, Google, Facebook, etc.)
+- Experience in building and maintaining responsive websites
 
-- 🔭 I’m currently working on this page. 
+🌱 Always eager to learn and adapt to new technologies.
+🌟 Open to collaborations and exploring innovative projects.
+
+🏢 Current: Software Engineer at Dessein Lab, Sylhet, Sylhet
+🎓 Education: Bachelor of Science in Engineering (Computer Science and Engineering) from North East University Bangladesh.
+
+🌏 Hobbies: Traveling, spending quality time with family and friends.
+
+📚 "Code is like humor. When you have to explain it, it’s bad." - Cory House
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/scp-sabuj)  
